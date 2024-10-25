@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>localDemo_v1</artifactId>
+    <artifactId>LocalDemo_v1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -56,7 +56,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>3.3.0</version>
+                <version>3.2.0</version>
                 <configuration>
                     <archive>
                         <manifest>
@@ -69,7 +69,6 @@
 
         </plugins>
     </build>
-
 
 
 
